@@ -7,5 +7,4 @@ edition = "2021"
 
 [dependencies]
 anyhow = "1.0.69"
-chrono = "0.4.23"
 rusb = "0.9.1"
